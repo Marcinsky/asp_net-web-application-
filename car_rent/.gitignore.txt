@@ -1,0 +1,3 @@
+# Ignore jQuery and bootstrap folders in wwwroot
+/wwwroot/lib/jquery/
+/wwwroot/lib/bootstrap/
